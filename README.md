@@ -108,11 +108,6 @@ Blocking and Non-Blocking using input and output variable:
 
 ![Screenshot (126)](https://github.com/user-attachments/assets/c6b8e95a-7322-4f45-a3df-c5c820c821b1)
 
-Blocking and Non-Blocking without using input and output variable:
-
-![Screenshot (127)](https://github.com/user-attachments/assets/5397dccc-6deb-4d9d-a499-3a48d2b59f88)
-
-
 
 
 Conclusion
